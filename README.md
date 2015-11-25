@@ -18,16 +18,16 @@ This Wiki is about learning to contribute to MRO Project. MRO is a web-based vid
 
 Tools
 * Backlog at https://trello.com/b/vMsZjqS1/
-* Source at https://github.com/DamienFremont/project-myrpgonline/
+* Source at https://github.com/MRO-Org/
 * Host at https://dashboard.heroku.com/apps
 
 Projects
-* Site 
-    * Source at https://github.com/DamienFremont/project-myrpgonline/tree/master/site
-    * Run at https://project-myrpgonline.herokuapp.com/
 * Game
-    * Source at https://github.com/DamienFremont/project-myrpgonline/tree/master/game
+    * Source at https://github.com/MRO-Org/mro
     * Run at https://project-myrpgonline.herokuapp.com/play
+* WebSite 
+    * Source at https://github.com/MRO-Org/mro-website
+    * Run at https://project-myrpgonline.herokuapp.com/
 
 
 
