@@ -17,9 +17,9 @@ This Wiki is about learning to contribute to MRO Project. MRO is a web-based vid
 ## Reminder
 
 Tools
-* Backlog at https://trello.com/b/vMsZjqS1/
-* Source at https://github.com/MRO-Org/
-* Host at https://dashboard.heroku.com/apps
+* Backlog (Trello) at https://trello.com/b/vMsZjqS1/
+* Source (GitHub) at https://github.com/MRO-Org/
+* Host (Heroku) at https://dashboard.heroku.com/apps
 
 Projects
 * Game
