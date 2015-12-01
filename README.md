@@ -151,3 +151,33 @@ blog:
 
 #### ExpressJs
 * tuto: http://expressjs.com/guide/routing.html
+
+
+
+### TOOLS:
+
+#### Chrome Developer Tools
+press F12
+
+Console
+![ScreenShot](resources/webtools-01.png)
+
+Inspect HTML
+![ScreenShot](resources/webtools-02.png)
+
+Network HTTP (REST, img, html)
+![ScreenShot](resources/webtools-03.png)
+
+Debug JavaScript
+![ScreenShot](resources/webtools-04.png)
+
+#### Chrome Extension
+download from Chrome Web Store
+![ScreenShot](resources/webtools-00.png)
+
+Chrome angularjs ext
+![ScreenShot](resources/webtools-06.png)
+![ScreenShot](resources/webtools-07.png)
+
+Advanced rest client 
+![ScreenShot](resources/webtools-05.png)
