@@ -7,10 +7,10 @@ This Wiki is about learning to contribute to MRO Project. MRO is a web-based vid
 
 ## Contents
 
-* [Reminder](#Reminder)
-* [Getting started](#Getting-started)
-* [Conventions](#Conventions)
-* [Contribution](#Contribution)
+* [Reminder](#reminder)
+* [Getting started](#getting-started)
+* [Conventions](#conventions)
+* [Contribution](#contribution)
 
 
 
