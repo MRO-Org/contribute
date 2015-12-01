@@ -8,9 +8,10 @@ This Wiki is about learning to contribute to MRO Project. MRO is a web-based vid
 ## Contents
 
 * [Reminder](#reminder)
+* [Contribution](#contribution)
 * [Getting started](#getting-started)
 * [Conventions](#conventions)
-* [Contribution](#contribution)
+* [Learn](#learn)
 
 
 
@@ -28,6 +29,16 @@ Projects
 * WebSite 
     * Source at https://github.com/MRO-Org/mro-website
     * Run at https://project-myrpgonline.herokuapp.com/
+
+
+
+## Contribution
+
+How to contribute ?
+
+You can contribute by :
+* testing the project at https://project-myrpgonline.herokuapp.com/
+* participating to the project code base. First read the Getting Started page. After that, you can play with the project, then push some code.
 
 
 
@@ -82,12 +93,42 @@ The MEAN stack is a potent new concoction of javascript-flavored tooling, servic
 * Use Brunch for build
 * Use NodeJs for Server
 
+## Learn
 
+### UI:
 
-## Contribution
+#### Angular Material
+* demo: https://material.angularjs.org/latest/demo/
+* buttons: https://material.angularjs.org/latest/CSS/button
+* grid: https://material.angularjs.org/latest/layout/grid
+* directives: https://material.angularjs.org/latest/api/directive/mdTooltip
 
-How to contribute ?
+#### Material Design Lite
+* demo: http://www.getmdl.io/components/index.html
 
-You can contribute by :
-* testing the project at https://project-myrpgonline.herokuapp.com/
-* participating to the project code base. First read the Getting Started page. After that, you can play with the project, then push some code.
+#### Bootstrap
+* demo: http://getbootstrap.com/getting-started/#examples
+* doc Layout: http://getbootstrap.com/css/
+* doc component:  http://getbootstrap.com/components/
+* doc dynamic compon ent: https://angular-ui.github.io/bootstrap/
+
+### MVC:
+
+#### AngularJS
+* demo: https://angularjs.org/
+* tuto: https://docs.angularjs.org/tutorial/step_01
+* doc: https://docs.angularjs.org/guide
+modules
+* bootstrap integration: https://angular-ui.github.io/bootstrap/
+* datetime picker: http://dalelotts.github.io/angular-bootstrap-datetimepicker/
+    * d3js integration:
+    * demo https://cmaurer.github.io/angularjs-nvd3-directives/
+    * source https://github.com/angularjs-nvd3-directives/angularjs-nvd3-directives
+* formatting https://github.com/mbostock/d3/wiki/Time-Formatting
+* table integration: http://lorenzofox3.github.io/smart-table-website/
+* language integration: https://angular-translate.github.io/
+
+### SERVER:
+
+#### ExpressJs
+* tuto: http://expressjs.com/guide/routing.html
