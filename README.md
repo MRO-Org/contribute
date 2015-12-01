@@ -118,7 +118,8 @@ The MEAN stack is a potent new concoction of javascript-flavored tooling, servic
 * demo: https://angularjs.org/
 * tuto: https://docs.angularjs.org/tutorial/step_01
 * doc: https://docs.angularjs.org/guide
-modules
+
+modules:
 * bootstrap integration: https://angular-ui.github.io/bootstrap/
 * datetime picker: http://dalelotts.github.io/angular-bootstrap-datetimepicker/
     * d3js integration:
@@ -127,6 +128,24 @@ modules
 * formatting https://github.com/mbostock/d3/wiki/Time-Formatting
 * table integration: http://lorenzofox3.github.io/smart-table-website/
 * language integration: https://angular-translate.github.io/
+
+blog:
+* http://damienfremont.com/2015/10/13/javaee-angularjs-bootstrap-integration/
+* http://damienfremont.com/2015/10/15/javaee-angularjs-bootstrap-routes-templates-redirection-and-params/
+* http://damienfremont.com/2015/10/16/javaee-angularjs-bootstrap-form-basic-read-post/
+* http://damienfremont.com/2015/10/17/javaee-angularjs-bootstrap-form-bean-validation-front-and-back/
+* http://damienfremont.com/2015/10/17/javaee-angularjs-bootstrap-date-picker/
+* http://damienfremont.com/2015/10/19/javaee-angularjs-bootstrap-file-upload/
+* http://damienfremont.com/2015/10/20/javaee-angularjs-bootstrap-datatable-and-excel-export/
+* http://damienfremont.com/2015/10/31/javaee-angularjs-bootstrap-how-to-filtering/
+* http://damienfremont.com/2015/11/02/javaee-angularjs-bootstrap-how-to-pagination-with-smart-table/
+* http://damienfremont.com/2015/11/03/javaee-angularjs-bootstrap-how-to-sort-with-smart-table/
+* http://damienfremont.com/2015/11/04/javaee-angularjs-bootstrap-how-to-infinite-scroll/
+* http://damienfremont.com/2015/11/05/javaee-angularjs-bootstrap-how-to-breadcrumb-and-navbar/
+* http://damienfremont.com/2015/11/06/javaee-angularjs-bootstrap-how-to-multilingual-i18n-l10n/
+* http://damienfremont.com/2015/11/08/javaee-angularjs-bootstrap-howto-charts-with-d3js/
+* http://damienfremont.com/2015/11/19/javaee-angularjs-bootstrap-how-to-authent-basic/
+
 
 ### SERVER:
 
