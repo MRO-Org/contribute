@@ -16,10 +16,12 @@ This Wiki is about learning to contribute to MRO Project. MRO is a web-based vid
 
 
 ## Reminder
+
 Tools
 * Backlog (Trello) at https://trello.com/b/vMsZjqS1/
 * Source (GitHub) at https://github.com/MRO-Org/
 * Host (Heroku) at https://dashboard.heroku.com/apps
+
 Projects
 * Game
     * Source at https://github.com/MRO-Org/mro
@@ -41,6 +43,7 @@ You can contribute by :
 
 
 ## Getting started
+
 * Install (if you don't have them):
     * [GitHub](https://desktop.github.com): download and install the latest
     * [SublimeText](http://www.sublimetext.com): download and install
@@ -75,7 +78,9 @@ You can contribute by :
 
 
 ## Conventions
+
 ### *Coding best practices.*
+
 * Use JavaScript for scripts
 * Use CSS for styles
 * Use HTML for templates
@@ -89,24 +94,28 @@ The MEAN stack is a potent new concoction of javascript-flavored tooling, servic
 * Use NodeJs for Server
 
 ## Learn
+
 ### UI
+
 #### Angular Material
+
 * demo: https://material.angularjs.org/latest/demo/
 * buttons: https://material.angularjs.org/latest/CSS/button
 * grid: https://material.angularjs.org/latest/layout/grid
 * directives: https://material.angularjs.org/latest/api/directive/mdTooltip
+
 ### MVC
+
 #### AngularJS
+
 * demo: https://angularjs.org/
 * tuto: https://docs.angularjs.org/tutorial/step_01
 * doc: https://docs.angularjs.org/guide
+
 modules
 * storage: https://github.com/gsklee/ngStorage
 * rtc (chat): http://angular-rtcomm.wasdev.developer.ibm.com/
-### Server
-#### ExpressJS
-modules
-* websocket (chat): https://github.com/socketio/socket.io/tree/master/examples/chat
+
 blog:
 * http://damienfremont.com/2015/10/13/javaee-angularjs-bootstrap-integration/
 * http://damienfremont.com/2015/10/15/javaee-angularjs-bootstrap-routes-templates-redirection-and-params/
@@ -124,14 +133,20 @@ blog:
 * http://damienfremont.com/2015/11/08/javaee-angularjs-bootstrap-howto-charts-with-d3js/
 * http://damienfremont.com/2015/11/19/javaee-angularjs-bootstrap-how-to-authent-basic/
 
-### SERVER:
+### SERVER
+
 #### ExpressJs
+
 * tuto: http://expressjs.com/guide/routing.html
+modules
+* websocket (chat): https://github.com/socketio/socket.io/tree/master/examples/chat
 
 
 
-### TOOLS:
+### TOOLS
+
 #### Chrome Developer Tools
+
 press F12
 
 Console
