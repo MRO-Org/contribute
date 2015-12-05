@@ -103,15 +103,6 @@ The MEAN stack is a potent new concoction of javascript-flavored tooling, servic
 * grid: https://material.angularjs.org/latest/layout/grid
 * directives: https://material.angularjs.org/latest/api/directive/mdTooltip
 
-#### Material Design Lite
-* demo: http://www.getmdl.io/components/index.html
-
-#### Bootstrap
-* demo: http://getbootstrap.com/getting-started/#examples
-* doc Layout: http://getbootstrap.com/css/
-* doc component:  http://getbootstrap.com/components/
-* doc dynamic compon ent: https://angular-ui.github.io/bootstrap/
-
 ### MVC:
 
 #### AngularJS
@@ -120,14 +111,7 @@ The MEAN stack is a potent new concoction of javascript-flavored tooling, servic
 * doc: https://docs.angularjs.org/guide
 
 modules:
-* bootstrap integration: https://angular-ui.github.io/bootstrap/
-* datetime picker: http://dalelotts.github.io/angular-bootstrap-datetimepicker/
-    * d3js integration:
-    * demo https://cmaurer.github.io/angularjs-nvd3-directives/
-    * source https://github.com/angularjs-nvd3-directives/angularjs-nvd3-directives
-* formatting https://github.com/mbostock/d3/wiki/Time-Formatting
-* table integration: http://lorenzofox3.github.io/smart-table-website/
-* language integration: https://angular-translate.github.io/
+* storage: https://github.com/gsklee/ngStorage
 
 blog:
 * http://damienfremont.com/2015/10/13/javaee-angularjs-bootstrap-integration/
