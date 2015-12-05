@@ -89,31 +89,24 @@ You can contribute by :
 A complete stack for Javascript, comprised of MongoDB, Express, Angular, and Node.
 
 The MEAN stack is a potent new concoction of javascript-flavored tooling, services, and frameworks that make modern, single-page application design a breeze:
-
 * Use Brunch for build
 * Use NodeJs for Server
 
 ## Learn
-
 ### UI
-
 #### Angular Material
 * demo: https://material.angularjs.org/latest/demo/
 * buttons: https://material.angularjs.org/latest/CSS/button
 * grid: https://material.angularjs.org/latest/layout/grid
 * directives: https://material.angularjs.org/latest/api/directive/mdTooltip
-
 ### MVC
-
 #### AngularJS
 * demo: https://angularjs.org/
 * tuto: https://docs.angularjs.org/tutorial/step_01
 * doc: https://docs.angularjs.org/guide
-
 modules
 * storage: https://github.com/gsklee/ngStorage
 * rtc (chat): http://angular-rtcomm.wasdev.developer.ibm.com/
-
 ### Server
 #### ExpressJS
 modules
