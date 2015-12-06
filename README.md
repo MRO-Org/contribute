@@ -103,6 +103,9 @@ The MEAN stack is a potent new concoction of javascript-flavored tooling, servic
 * buttons: https://material.angularjs.org/latest/CSS/button
 * grid: https://material.angularjs.org/latest/layout/grid
 * directives: https://material.angularjs.org/latest/api/directive/mdTooltip
+* icons demo (google) https://klarsys.github.io/angular-material-icons/
+* icons demo mdi (community) https://materialdesignicons.com/
+* icons sets https://github.com/nkoterba/material-design-iconsets
 
 ### MVC
 
@@ -114,7 +117,7 @@ The MEAN stack is a potent new concoction of javascript-flavored tooling, servic
 
 modules
 * storage: https://github.com/gsklee/ngStorage
-* rtc (chat): http://angular-rtcomm.wasdev.developer.ibm.com/
+* websocket (chat): https://github.com/socketio/socket.io-client
 
 blog:
 * http://damienfremont.com/2015/10/13/javaee-angularjs-bootstrap-integration/
@@ -139,7 +142,7 @@ blog:
 
 * tuto: http://expressjs.com/guide/routing.html
 modules
-* websocket (chat): https://github.com/socketio/socket.io/tree/master/examples/chat
+* websocket (chat): http://socket.io/get-started/chat/
 
 
 
