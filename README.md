@@ -79,6 +79,8 @@ You can contribute by :
 
 ## Conventions
 
+![ScreenShot](resources/agile.png)
+
 ### *Coding best practices.*
 
 * Use JavaScript for scripts
