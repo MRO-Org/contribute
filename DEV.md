@@ -1,43 +1,13 @@
-Project LARP - Dev
+Project LARP - Developer Section
 =============
 
+!!! WORK IN PROGRESS !!!
 
 ## Contents
 
-* [Reminder](#reminder)
-* [Contribution](#contribution)
 * [Getting started](#getting-started)
 * [Conventions](#conventions)
 * [Learn](#learn)
-
-
-
-## Reminder
-
-Tools
-* Backlog (Trello) at https://trello.com/b/vMsZjqS1/
-* Source (GitHub) at https://github.com/MRO-Org/
-* Host (Heroku) at https://dashboard.heroku.com/apps
-
-Projects
-* Game
-    * Source at https://github.com/MRO-Org/mro
-    * Run at https://project-myrpgonline.herokuapp.com/play
-* WebSite 
-    * Source at https://github.com/MRO-Org/mro-website
-    * Run at https://project-myrpgonline.herokuapp.com/
-
-
-
-## Contribution
-
-How to contribute ?
-
-You can contribute by :
-* testing the project at https://project-myrpgonline.herokuapp.com/
-* participating to the project code base. First read the Getting Started page. After that, you can play with the project, then push some code.
-
-
 
 ## Getting started
 
