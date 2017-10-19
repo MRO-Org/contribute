@@ -17,7 +17,6 @@ Are you...
 
 ## Reminder
 
-Tools
 * Trello
     * [Roadmap](https://trello.com/b/9mDrJVpG/)
     * [Backlog](https://trello.com/b/b3FmZMCj/)
