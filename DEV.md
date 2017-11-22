@@ -246,6 +246,8 @@ Advanced rest client
 
 ![ScreenShot](resources/design/agile.png)
 
+![ScreenShot](resources/design/tech_archi.png)
+
 ---
 
 ### Software Development
