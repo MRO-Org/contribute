@@ -3,68 +3,254 @@ Project LARP - Developer Section
 
 !!! WORK IN PROGRESS !!!
 
+Dev project page / URL : https://github.com/ProjectLarpOrg/project-larp
+
 ## Contents
 
 * [Getting started](#getting-started)
 * [Conventions](#conventions)
 * [Learn](#learn)
+* More...
+  * [GitHub](#github)
+  * [Java JDK 8](#java)
+  * [IntelliJ IDEA](#intellij)
+  * [Eclipse IDE](#eclipse)
+  * [Debug](#debug)
+  * [Software Design](#software-design)
+  * [Software Development](#software-development)
+---
 
 ## Getting started
 
-* Install (if you don't have them):
-    * [GitHub](https://desktop.github.com): download and install the latest
-    * [SublimeText](http://www.sublimetext.com): download and install
-    * [Node.js](http://nodejs.org): download and install
-    * [Git](https://git-scm.com/download/win): download and install the latest
-        * WARNING: choose 'Use Git from the Windows Command Prompt' during install
-    * [Brunch](http://brunch.io): `npm install -g brunch@1.8.5` from command line (WIN+R,'cmd')
-    * [Bower](http://bower.io): `npm install -g bower@1.6.4` from command line (WIN+R,'cmd')
-* Get the project
-    * Create an account on GitHub if necessary
-    * Open project page https://github.com/DamienFremont/project-myrpgonline
-    * Click on 'Clone in Desktop' button
-    * Confirm 'launch application' popup
-    * ...then GitHub app launch on your desktop
-    * ...and wait for it to finish project download
-    * The project must be in your <user folder>/Documents/GitHub/project-myrpgonline
-* Run:
-    * got to project scripts folder
-    * click on install-1.bat then click on install-2.bat (only the first time, closed it manualy when it's finished)
-    * click on start-1-client.bat and start-2-server.bat
-        * a command line console window pop in
-        * ...wait until the console displays 'started'
-* Test:
-    * open your browser at [http://localhost:3333/](http://localhost:3333/)
-* Learn:
-    * `public/` dir is fully auto-generated and served by HTTP server.  Write your code in `app/` dir.
-    * Place static files you want to be copied from `app/assets/` to `public/`.
-    * Languages: [HTML](http://www.w3schools.com/html/), [CSS](http://www.w3schools.com/css/), [JavaScript](http://www.w3schools.com/js/)
-    * Frameworks: [AngularJs doc](https://docs.angularjs.org/guide), [Bootstrap doc](http://getbootstrap.com/getting-started/#examples), [Express.js doc](http://expressjs.com/guide/routing.html)
-    * Tools: [Brunch site](http://brunch.io), [Node.js doc](http://www.tutorialspoint.com/nodejs/)
+* Get the project :
+    * Register to [GitHub](https://github.com/)
+    * Install [GitHub Desktop App](https://desktop.github.com)
+    * Clone the project (URL at the top of this page) ([more...](#github))
 
+* Run the app :
+    * Install [Java JDK 8](http://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) : download and install the latest ([more...](#java))
+    * Choose an IDE/Editor and Run it:
+        * [IntelliJ IDEA Community Edition](https://www.jetbrains.com/idea/) ([more...](#intellij))
+        * or
+        * [Eclipse IDE for JavaEE](https://www.eclipse.org/downloads/eclipse-packages/) ([more...](#eclipse))
 
+* Test it :
+    * open your [browser](https://www.google.com/chrome/) at [http://localhost:8080/](http://localhost:8080/)
+
+* Debug :
+    * Use Chrome Web tools ([more...](#debug))
+
+---
 
 ## Conventions
-
-![ScreenShot](resources/agile.png)
 
 ### *Coding best practices.*
 
 * Use JavaScript for scripts
 * Use CSS for styles
 * Use HTML for templates
-
-![ScreenShot](resources/mean-logo.png)
+* Use Java for 
 
 A complete stack for Javascript, comprised of MongoDB, Express, Angular, and Node.
 
-The MEAN stack is a potent new concoction of javascript-flavored tooling, services, and frameworks that make modern, single-page application design a breeze:
-* Use Brunch for build
-* Use NodeJs for Server
+---
 
 ## Learn
 
-### UI
+Learn more about :
+
+* Software Design ([more...](#software-design))
+* Software Development ([more...](#software-development))
+* Quality and Test ([more...]())
+* Languages : [HTML](http://www.w3schools.com/html/), [CSS](http://www.w3schools.com/css/), [JavaScript](http://www.w3schools.com/js/), [Java](http://www.learnjavaonline.org/)
+* Frameworks: [AngularJs](https://docs.angularjs.org/guide), [SpringBoot](https://docs.spring.io/spring-boot/docs/1.5.9.BUILD-SNAPSHOT/reference/htmlsingle/)
+
+---
+
+### GitHub
+
+Get the project with GitHub
+
+### Steps :
+  * Create an account on GitHub if necessary
+  * Download the desktop app
+  * Open project page
+  * Click on 'Clone in Desktop' button
+  * Confirm 'launch application' popup
+    * ...then GitHub app launch on your desktop
+    * ...and wait for it to finish project download
+  * The project must be in your <user folder>/Documents/GitHub/project-myrpgonline
+
+![ScreenShot](resources/github/ScreenShot001.png)
+
+---
+
+### Java 
+
+Install Java JDK 8
+
+!!! WORK IN PROGRESS !!!
+
+![ScreenShot](resources/java/ScreenShot001.png)
+
+![ScreenShot](resources/java/ScreenShot002.png)
+
+![ScreenShot](resources/java/ScreenShot003.png)
+
+
+---
+
+### IntelliJ
+
+Getting started with IntelliJ IDEA
+
+* first you need to install JDK 8
+
+![ScreenShot](resources/intellij/ScreenShot002.png)
+
+![ScreenShot](resources/intellij/ScreenShot003.png)
+
+![ScreenShot](resources/intellij/ScreenShot004.png)
+
+![ScreenShot](resources/intellij/ScreenShot005.png)
+
+![ScreenShot](resources/intellij/ScreenShot006.png)
+
+![ScreenShot](resources/intellij/ScreenShot007.png)
+
+![ScreenShot](resources/intellij/ScreenShot008.png)
+
+![ScreenShot](resources/intellij/ScreenShot009.png)
+
+![ScreenShot](resources/intellij/ScreenShot010.png)
+
+![ScreenShot](resources/intellij/ScreenShot011.png)
+
+![ScreenShot](resources/intellij/ScreenShot012.png)
+
+![ScreenShot](resources/intellij/ScreenShot014.png)
+
+![ScreenShot](resources/intellij/ScreenShot015.png)
+
+![ScreenShot](resources/intellij/ScreenShot018.png)
+
+![ScreenShot](resources/intellij/ScreenShot020.png)
+
+![ScreenShot](resources/intellij/ScreenShot021.png)
+
+![ScreenShot](resources/intellij/ScreenShot096.png)
+
+![ScreenShot](resources/intellij/ScreenShot097.png)
+
+![ScreenShot](resources/intellij/ScreenShot098.png)
+
+![ScreenShot](resources/intellij/ScreenShot099.png)
+
+![ScreenShot](resources/intellij/ScreenShot100.png)
+
+![ScreenShot](resources/intellij/ScreenShot101.png)
+
+---
+
+### Eclipse
+
+Getting started with Eclipse IDE
+
+* first you need to install JDK 8
+
+![ScreenShot](resources/eclipse/ScreenShot001.png)
+
+![ScreenShot](resources/eclipse/ScreenShot002.png)
+
+![ScreenShot](resources/eclipse/ScreenShot003.png)
+
+![ScreenShot](resources/eclipse/ScreenShot004.png)
+
+![ScreenShot](resources/eclipse/ScreenShot005.png)
+
+![ScreenShot](resources/eclipse/ScreenShot007.png)
+
+![ScreenShot](resources/eclipse/ScreenShot008.png)
+
+![ScreenShot](resources/eclipse/ScreenShot009.png)
+
+![ScreenShot](resources/eclipse/ScreenShot010.png)
+
+![ScreenShot](resources/eclipse/ScreenShot011.png)
+
+![ScreenShot](resources/eclipse/ScreenShot012.png)
+
+![ScreenShot](resources/eclipse/ScreenShot013.png)
+
+![ScreenShot](resources/eclipse/ScreenShot014.png)
+
+![ScreenShot](resources/eclipse/ScreenShot015.png)
+
+![ScreenShot](resources/eclipse/ScreenShot016.png)
+
+![ScreenShot](resources/eclipse/ScreenShot017.png)
+
+![ScreenShot](resources/eclipse/ScreenShot021.png)
+
+![ScreenShot](resources/eclipse/ScreenShot018.png)
+
+![ScreenShot](resources/eclipse/ScreenShot099.png)
+
+![ScreenShot](resources/eclipse/ScreenShot100.png)
+
+![ScreenShot](resources/eclipse/ScreenShot101.png)
+
+---
+
+### Debug
+
+#### Chrome Developer Tools
+
+press F12
+
+Console
+
+![ScreenShot](resources/webtools/webtools-01.png)
+
+Inspect HTML
+
+![ScreenShot](resources/webtools/webtools-02.png)
+
+Network HTTP (REST, img, html)
+
+![ScreenShot](resources/webtools/webtools-03.png)
+
+Debug JavaScript
+
+![ScreenShot](resources/webtools/webtools-04.png)
+
+#### Chrome Extension
+
+download from Chrome Web Store
+
+![ScreenShot](resources/webtools/webtools-00.png)
+
+Chrome angularjs ext
+
+![ScreenShot](resources/webtools/webtools-06.png)
+
+![ScreenShot](resources/webtools/webtools-07.png)
+
+Advanced rest client 
+
+![ScreenShot](resources/webtools/webtools-05.png)
+
+---
+
+### Software Design
+
+![ScreenShot](resources/design/agile.png)
+
+---
+
+### Software Development
+
+## UI
 
 #### Angular Material
 
@@ -104,51 +290,3 @@ blog:
 * http://damienfremont.com/2015/11/06/javaee-angularjs-bootstrap-how-to-multilingual-i18n-l10n/
 * http://damienfremont.com/2015/11/08/javaee-angularjs-bootstrap-howto-charts-with-d3js/
 * http://damienfremont.com/2015/11/19/javaee-angularjs-bootstrap-how-to-authent-basic/
-
-### SERVER
-
-#### ExpressJs
-
-* tuto: http://expressjs.com/guide/routing.html
-modules
-* websocket (chat): http://socket.io/get-started/chat/
-
-
-
-### TOOLS
-
-#### Chrome Developer Tools
-
-press F12
-
-Console
-
-![ScreenShot](resources/webtools-01.png)
-
-Inspect HTML
-
-![ScreenShot](resources/webtools-02.png)
-
-Network HTTP (REST, img, html)
-
-![ScreenShot](resources/webtools-03.png)
-
-Debug JavaScript
-
-![ScreenShot](resources/webtools-04.png)
-
-#### Chrome Extension
-
-download from Chrome Web Store
-
-![ScreenShot](resources/webtools-00.png)
-
-Chrome angularjs ext
-
-![ScreenShot](resources/webtools-06.png)
-
-![ScreenShot](resources/webtools-07.png)
-
-Advanced rest client 
-
-![ScreenShot](resources/webtools-05.png)

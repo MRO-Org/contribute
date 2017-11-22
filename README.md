@@ -6,8 +6,8 @@ This Wiki is about learning to contribute to LARP Project. LARP is a web-based t
 and administrating it over the internet (web, mobile or desktop). It's targeting at [Gamemasters](https://en.wikipedia.org/wiki/Gamemaster) and Players.
 
 Are you...
-* A developer? [click here](./DEV.md)
-* A curious Gamemaster? [click here](./GM.md)
+* A developer? [click here...](./DEV.md)
+* A curious Gamemaster? [click here...](./GM.md)
 
 ## Contents
 
@@ -22,10 +22,10 @@ Are you...
     * [Backlog](https://trello.com/b/b3FmZMCj/)
 * GitHub
     * [Wiki](https://github.com/Project-LARP-Org/contribute)
-    * Source (soon...)
+    * [Source](https://github.com/Project-LARP-Org/project-larp)
     * Website (soon...)
-* Amazon
-    * Host (soone...)
+* Tomcat
+    * [Host (dev)](http://projectlarp.servegame.com/dev/)
 
 
 ## Contribution
@@ -33,5 +33,5 @@ Are you...
 How to contribute ?
 
 You can contribute by :
-* testing the project [online](https://project-myrpgonline.herokuapp.com/)
+* testing the project [online](http://projectlarp.servegame.com/dev/)
 * participating to the project code base. First read the Getting Started page. After that, you can play with the project, then push some code.
