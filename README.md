@@ -1,21 +1,37 @@
-Project LARP - Wiki
+Project LARP
 =============
+
+!!! WORK IN PROGRESS !!!
+
+![ScreenShot](resources/banner.jpg)
 
 This Wiki is about learning to contribute to LARP Project. LARP is a web-based tool providing ways to implements 
 [Live action role-playing game](https://en.wikipedia.org/wiki/Gamemaster) 
 and administrating it over the internet (web, mobile or desktop). It's targeting at [Gamemasters](https://en.wikipedia.org/wiki/Gamemaster) and Players.
 
-Are you...
-* A developer? [click here...](./DEV.md)
-* A curious Gamemaster? [click here...](./GM.md)
+## Documentation
 
-## Contents
+* Developer ? [click here to see dev section...](./DEV.md)
+* Gamemaster ? [click here gm section...](./GM.md)
 
-* [Reminder](#reminder)
-* [Contribution](#contribution)
+---
 
+## License
 
-## Reminder
+This software is provided free of charge and without restriction.
+
+## Demo
+A live [demo](http://projectlarp.servegame.com/dev/).
+
+## How to contribute ?
+
+You can contribute by :
+* testing the project [online](http://projectlarp.servegame.com/dev/)
+* participating to the project code base. First read the Getting Started page. After that, you can play with the project, then push some code.
+
+---
+
+## Links
 
 * Trello
     * [Roadmap](https://trello.com/b/9mDrJVpG/)
@@ -28,10 +44,4 @@ Are you...
     * [Host (dev)](http://projectlarp.servegame.com/dev/)
 
 
-## Contribution
 
-How to contribute ?
-
-You can contribute by :
-* testing the project [online](http://projectlarp.servegame.com/dev/)
-* participating to the project code base. First read the Getting Started page. After that, you can play with the project, then push some code.
