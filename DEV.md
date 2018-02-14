@@ -18,6 +18,7 @@ Dev project page / URL : https://github.com/ProjectLarpOrg/project-larp
   * [Debug](#debug)
   * [Software Design](#software-design)
   * [Software Development](#software-development)
+
 ---
 
 ## Getting started
@@ -81,7 +82,21 @@ Get the project with GitHub
     * ...and wait for it to finish project download
   * The project must be in your <user folder>/Documents/GitHub/project-myrpgonline
 
-![ScreenShot](resources/github/ScreenShot001.png)
+![ScreenShot](resources/githubdesktop/ScreenShot001.png)
+
+![ScreenShot](resources/githubdesktop/ScreenShot002.png)
+
+![ScreenShot](resources/githubdesktop/ScreenShot003.png)
+
+![ScreenShot](resources/githubdesktop/ScreenShot004.png)
+
+![ScreenShot](resources/githubdesktop/ScreenShot005.png)
+
+![ScreenShot](resources/githubdesktop/ScreenShot006.png)
+
+![ScreenShot](resources/githubdesktop/ScreenShot007.png)
+
+![ScreenShot](resources/githubdesktop/ScreenShot008.png)
 
 ---
 
@@ -263,6 +278,10 @@ Advanced rest client
 * icons demo (google) https://klarsys.github.io/angular-material-icons/
 * icons demo mdi (community) https://materialdesignicons.com/
 * icons sets https://github.com/nkoterba/material-design-iconsets
+
+### Angular Components
+
+* Data table https://github.com/daniel-nagy/md-data-table
 
 ### MVC
 
